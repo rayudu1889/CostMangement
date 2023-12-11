@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AWSSDK.Core" Version="3.7.300.15" />
+    <PackageReference Include="AWSSDK.CostExplorer" Version="3.7.300.15" />
+    <PackageReference Include="AWSSDK.EC2" Version="3.7.308" />
+    <PackageReference Include="AWSSDK.Pricing" Version="3.7.300.15" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+</Project>

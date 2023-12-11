@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "sH7seBEPH8DCAEMyC7G8R2xI4wNZ/YfoZoHzLhBd6vnkz2UiA7FWEjlBHEVTd0eUA2AoI22CDtEPnUYQxNVPqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vamsi\\Downloads\\costmanagement\\costmanagement\\costmanagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vamsi\\.nuget\\packages\\awssdk.core\\3.7.300.15\\awssdk.core.3.7.300.15.nupkg.sha512",
+    "C:\\Users\\vamsi\\.nuget\\packages\\awssdk.costexplorer\\3.7.300.15\\awssdk.costexplorer.3.7.300.15.nupkg.sha512",
+    "C:\\Users\\vamsi\\.nuget\\packages\\awssdk.ec2\\3.7.308\\awssdk.ec2.3.7.308.nupkg.sha512",
+    "C:\\Users\\vamsi\\.nuget\\packages\\awssdk.pricing\\3.7.300.15\\awssdk.pricing.3.7.300.15.nupkg.sha512",
+    "C:\\Users\\vamsi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\vamsi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\vamsi\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\vamsi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\vamsi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\vamsi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
